@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://localhost:27017/myBlogApp",
+    "jwtSecret": "4x5XGTASG6asASFA4sf*&(*F*^&S(*Ffasf56a4f565+-*-*/5+sf5a+s5f"
+}

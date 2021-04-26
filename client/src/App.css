@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.blogDetails{
+  display: flex;
+  padding: 2rem;
+}
+
+.blogDetails img{
+  width: 50%;
+}
+
+.info {
+  padding: 2rem 4rem;
+  width: 50%;
+}
+
+.info h1{
+  text-align: center;
+}
+
+@media only screen and (max-width: 995px) {
+  .blogDetails img{
+    width: 100%;
+  }
+  .blogDetails{
+    display: block;
+  }
+  .info {
+    padding: 2rem;
+}
+}
